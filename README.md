@@ -60,15 +60,15 @@ Built an admin dashboard using:
 
 ## 📈 GitHub Stats
 
-![Simeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Simeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eladim&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/simeon-busari
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: your-email@example.com
+- 💻 GitHub: https://github.com/Eladim
+- 📧 Email: simeonbusari@gmail.com
 
 ---
 
