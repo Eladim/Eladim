@@ -58,12 +58,6 @@ Built an admin dashboard using:
 
 ---
 
-## 📈 GitHub Stats
-
-![Simeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eladim&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/simeon-busari
