@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a developer focused on building modern, maintainable web applications with strong attention to **user experience, clean architecture, and practical problem-solving**.
+I'm a developer focused on building modern, maintainable web applications with strong attention to user experience, clean architecture, and practical problem-solving.
 
-My main strength is **frontend development** with **Next.js, React, TypeScript, and Tailwind CSS**, and I’ve also built backend and full-stack projects using **Node.js/Express**, **PostgreSQL**, and **Java with Spring Boot**. :contentReference[oaicite:2]{index=2}
+My main strength is frontend development with Next.js, React, TypeScript, and Tailwind CSS, and I’ve also built backend and full-stack projects using Node.js, Express, PostgreSQL, and Java with Spring Boot.
 
 - 🔭 Building dashboard, workflow, and support-focused applications
 - ⚛️ Strong in modern frontend development with React and Next.js
@@ -20,7 +20,7 @@ My main strength is **frontend development** with **Next.js, React, TypeScript, 
 
 ## 🧠 Core Skills
 
-### 🎨 Frontend
+### Frontend
 - React / Next.js
 - TypeScript & JavaScript (ES6+)
 - Tailwind CSS
@@ -29,7 +29,7 @@ My main strength is **frontend development** with **Next.js, React, TypeScript, 
 - Component Architecture
 - API Integration
 
-### 🧩 Backend
+### Backend
 - Node.js
 - Express.js
 - Prisma ORM
@@ -38,7 +38,7 @@ My main strength is **frontend development** with **Next.js, React, TypeScript, 
 - JWT Authentication
 - Realtime features with Socket.IO
 
-### ☕ Java
+### Java
 - Java 17
 - Spring Boot
 - Spring Web MVC
@@ -61,13 +61,13 @@ My main strength is **frontend development** with **Next.js, React, TypeScript, 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![Spring](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧵 SupportFlow
+### SupportFlow
 A production-style full-stack support workflow platform built as a monorepo with separate web and API apps.
 
 **Highlights:**
@@ -77,14 +77,14 @@ A production-style full-stack support workflow platform built as a monorepo with
 - Express API with JWT authentication
 - Prisma + PostgreSQL
 - Realtime updates with Socket.IO
-- OpenAPI/Swagger and Docker-based local infrastructure :contentReference[oaicite:3]{index=3}
+- OpenAPI/Swagger and Docker-based local infrastructure
 
 🔗 https://github.com/Eladim/supportflow
 
 ---
 
-### ☕ Support Desk API
-A Java backend project for internal customer support ticket management, built to demonstrate enterprise-style API design and backend structure.
+### Support Desk API
+A Java backend project for internal customer support ticket management, built to demonstrate structured API design and backend architecture.
 
 **Highlights:**
 - Java 17 + Spring Boot
@@ -93,13 +93,13 @@ A Java backend project for internal customer support ticket management, built to
 - Bean Validation
 - Maven-based project structure
 - JUnit 5 and Mockito for testing
-- Filterable, paginated support ticket workflows :contentReference[oaicite:4]{index=4}
+- Filterable, paginated support ticket workflows
 
 🔗 https://github.com/Eladim/support-desk-api
 
 ---
 
-### 📊 Parsing – Channel Management Dashboard
+### Parsing – Channel Management Dashboard
 An admin dashboard project focused on reusable UI, theme support, and API-driven workflows.
 
 **Built with:**
